@@ -171,16 +171,21 @@ export default function CatalogView({ initialManhwas }: CatalogViewProps) {
         )}
       </section>
 
-      {/* Grid de Obras Estilo Apple Books / App Store */}
+      {/* Grid de Obras Estilo Apple Books / Roblox */}
       <section>
-        <div className="flex items-center justify-between mb-5">
-          <div className="flex items-center gap-2">
-            <h2 className="text-xl font-bold tracking-tight text-white">
-              Catálogo de Obras
-            </h2>
-            <span className="text-xs px-2 py-0.5 rounded-full bg-purple-500/20 text-purple-300 font-medium">
-              {filteredManhwas.length} {filteredManhwas.length === 1 ? 'obra' : 'obras'}
-            </span>
+        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-6">
+          <div>
+            <div className="flex items-center gap-2">
+              <h2 className="text-xl sm:text-2xl font-bold tracking-tight text-white">
+                Obras para você começar
+              </h2>
+              <span className="text-xs px-2.5 py-0.5 rounded-full bg-purple-500/20 text-purple-300 font-semibold border border-purple-500/30">
+                {filteredManhwas.length} {filteredManhwas.length === 1 ? 'obra' : 'obras'}
+              </span>
+            </div>
+            <p className="text-xs text-zinc-400 mt-1">
+              Capas em alta definição, sinopses completas e resenhas exclusivas do Luke
+            </p>
           </div>
 
           {(searchTerm || selectedFilter !== 'all' || selectedGenre !== 'all') && (
@@ -190,7 +195,7 @@ export default function CatalogView({ initialManhwas }: CatalogViewProps) {
                 setSelectedFilter('all');
                 setSelectedGenre('all');
               }}
-              className="text-xs text-purple-400 hover:text-purple-300 underline underline-offset-4"
+              className="text-xs text-purple-400 hover:text-purple-300 underline underline-offset-4 self-start sm:self-auto"
             >
               Resetar filtros
             </button>

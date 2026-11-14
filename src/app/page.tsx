@@ -1,4 +1,5 @@
 import Navbar from '@/components/Navbar';
+import VideoHero from '@/components/VideoHero';
 import CatalogView from '@/components/CatalogView';
 import { getLocalManhwas } from '@/lib/manhwas';
 
@@ -8,10 +9,14 @@ export default function HomePage() {
   const manhwas = getLocalManhwas();
 
   return (
-    <div className="flex flex-col min-h-screen">
+    <div className="flex flex-col min-h-screen bg-[#0B0B0E]">
       <Navbar />
 
-      <main className="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-8 py-6 sm:py-10">
+      {/* Hero Cinematográfico com Vídeos de Fundo (Estilo Roblox) */}
+      <VideoHero manhwas={manhwas} />
+
+      {/* Catálogo de Obras & Filtros */}
+      <main id="catalogo" className="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-8 py-8 sm:py-14 scroll-mt-20">
         <CatalogView initialManhwas={manhwas} />
       </main>
 
@@ -36,4 +41,3 @@ export default function HomePage() {
     </div>
   );
 }
-
