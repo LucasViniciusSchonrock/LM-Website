@@ -25,3 +25,31 @@ export interface Manhwa {
   updatedAt: string;
 }
 
+export interface SubscriberSupporter {
+  user: string;
+  avatar?: string;
+  isMember?: boolean;
+  memberTier?: string;
+  votedAt?: number;
+}
+
+export interface SubscriberRecommendation {
+  id: string;
+  title: string;
+  suggestedBy: string;
+  suggestedAvatar?: string;
+  isMember?: boolean;
+  memberTier?: string;
+  hasMemberSupport?: boolean;
+  supporters?: (string | SubscriberSupporter)[];
+  count?: number;
+  points?: number;
+  status?: string;
+  createdAt?: number;
+  lastSuggestedAt?: number;
+  coverUrl?: string;
+  notes?: string;
+  genre?: string;
+  mangadexTitle?: string;
+  readUrl?: string;
+}

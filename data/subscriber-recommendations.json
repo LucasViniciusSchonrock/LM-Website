@@ -1,0 +1,903 @@
+[
+  {
+    "id": "rec_1794410483522_07py",
+    "title": "O Matador de Dragões",
+    "suggestedBy": "Danilo_Scan",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Danilo_Scan",
+    "isMember": true,
+    "memberTier": "Membro do Canal",
+    "hasMemberSupport": true,
+    "supporters": [
+      {
+        "user": "Danilo_Scan",
+        "avatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Danilo_Scan",
+        "isMember": true,
+        "memberTier": "Membro do Canal",
+        "votedAt": 1794410483522
+      }
+    ],
+    "count": 1,
+    "points": 2,
+    "status": "pending",
+    "createdAt": 1794410483522,
+    "lastSuggestedAt": 1794410483522,
+    "coverUrl": "https://uploads.mangadex.org/covers/c3be92d8-e8f5-4ff7-82d6-2f1c68de4907/b2095a91-bc96-4c07-b31a-bcad665f825d.jpg.512.jpg",
+    "notes": "",
+    "genre": "Action • Comedy • Adventure",
+    "mangadexTitle": "FAIRY TAIL Gaiden: Kengami no Souryuu"
+  },
+  {
+    "id": "rec_initial_1",
+    "title": "Solo Leveling: Ragnarok",
+    "suggestedBy": "Chat da Live",
+    "isMember": true,
+    "hasMemberSupport": true,
+    "supporters": [
+      "Luke Manhwa Fan",
+      "Hunter_Vitor",
+      {
+        "user": "Testador_Apoio_1",
+        "avatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Testador_Apoio_1",
+        "isMember": true,
+        "memberTier": "Membro do Canal",
+        "votedAt": 1794410537872
+      },
+      {
+        "user": "Novo_Inscrito_2",
+        "avatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Novo_Inscrito_2",
+        "isMember": false,
+        "memberTier": "",
+        "votedAt": 1794410615757
+      }
+    ],
+    "count": 4,
+    "status": "pending",
+    "createdAt": 1793359683364,
+    "lastSuggestedAt": 1794410615757,
+    "coverUrl": "https://uploads.mangadex.org/covers/ade0306c-f4b6-4890-9edb-1ddf04df2039/fe76445d-387f-4ff6-8340-f06403c20dbe.jpg.512.jpg",
+    "notes": "",
+    "genre": "Action • Long Strip • Adventure • Fantasy",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Chat%20da%20Live",
+    "memberTier": "Membro do Canal",
+    "points": 5
+  },
+  {
+    "id": "rec_initial_2",
+    "title": "Omniscient Reader",
+    "suggestedBy": "Camila_VIP",
+    "isMember": true,
+    "hasMemberSupport": true,
+    "supporters": [
+      "Camila_VIP"
+    ],
+    "count": 3,
+    "status": "pending",
+    "createdAt": 1793356083364,
+    "lastSuggestedAt": 1793362083364,
+    "coverUrl": "https://uploads.mangadex.org/covers/46392cb3-a0f8-42e4-b2ac-b89637df56d9/1c3f3366-e82e-4b12-bae9-25fa6dbaa8b0.jpg.512.jpg",
+    "notes": "",
+    "genre": "Award Winning • Reincarnation • Monsters • Action",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Camila_VIP",
+    "memberTier": "Membro do Canal"
+  },
+  {
+    "id": "rec_brave_1793395693200_1",
+    "title": "Things That Deserve to Die",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793393053389,
+    "lastSuggestedAt": 1793393053389,
+    "coverUrl": "https://uploads.mangadex.org/covers/f30b73d6-4e2d-48c9-9236-e40a1f88d228/a5d8161a-6184-4093-86a1-2bb67c3314b7.png.512.jpg",
+    "genre": "Long Strip • Romance • Office Workers",
+    "notes": "",
+    "readUrl": "https://kingofshojo.com/things-that-deserve-to-die-chapter-1/",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395694780_2",
+    "title": "The Beginning After the End",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793393114780,
+    "lastSuggestedAt": 1793393114780,
+    "coverUrl": "https://uploads.mangadex.org/covers/748d2aab-cea8-4ffb-89b3-e716872cb027/0c426de6-aa3a-4957-a5b8-6ba7ca87022e.jpg.512.jpg",
+    "genre": "Romance • Comedy • Adventure",
+    "notes": "",
+    "readUrl": "https://www.google.com/search?q=The+Beginning+After+the+End+manhwa+portugues",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395695678_3",
+    "title": "Solo Max-Level Newbie",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793393175678,
+    "lastSuggestedAt": 1793393175678,
+    "coverUrl": "https://uploads.mangadex.org/covers/a253e13a-2b41-4f7d-915e-1e31a3f5d31d/431198ea-b840-41b9-8cae-d4574b5af943.jpg.512.jpg",
+    "genre": "Monsters • Action • Long Strip",
+    "notes": "",
+    "readUrl": "https://www.google.com/search?q=manhwa+solo+max+level",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395696698_4",
+    "title": "I Became the Villain the Hero Is Obsessed With",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793393236698,
+    "lastSuggestedAt": 1793393236698,
+    "coverUrl": "https://uploads.mangadex.org/covers/ed4a99cf-3cd7-41f5-9fd2-d69fe51a2f3c/b0ca7a65-cb4c-442f-b050-20ce2149ac91.jpg.512.jpg",
+    "genre": "Reincarnation • Action • Long Strip",
+    "notes": "",
+    "readUrl": "https://comix.to/title/e05zm-i-became-the-villain-the-hero-is-obsessed-with/6196262-chapter-1",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395697821_5",
+    "title": "The Warrior Returns",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793393297821,
+    "lastSuggestedAt": 1793393297821,
+    "coverUrl": "https://uploads.mangadex.org/covers/718d9146-8c9e-4ff3-9dc4-e4736a1239bb/d15e37f3-2447-46ba-8adf-663964af01ef.jpg.512.jpg",
+    "genre": "Action • Long Strip • Superhero",
+    "notes": "",
+    "readUrl": "https://taiyo.moe/chapter/0c6b14ec-8a4d-4697-8083-d00dadd07708/1",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395699128_6",
+    "title": "Trash of the Count's Family",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793393359128,
+    "lastSuggestedAt": 1793393359128,
+    "coverUrl": "https://uploads.mangadex.org/covers/1dc3ebf9-c86c-431c-bcca-5e35ac124f28/8cbec77f-b3e8-42ea-91be-16b63723c879.jpg.512.jpg",
+    "genre": "Reincarnation • Monsters • Action",
+    "notes": "",
+    "readUrl": "https://centralnovel.com/series/trash-of-the-counts-family/",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395700221_7",
+    "title": "I Took Over the Academy With a Single Sashimi Knife",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793393420221,
+    "lastSuggestedAt": 1793393420221,
+    "coverUrl": "https://uploads.mangadex.org/covers/0fea4e84-6cde-45f3-8924-2a09f6c4820f/6deaa18d-9e96-4662-9381-c2e8e24eed1b.jpg.512.jpg",
+    "genre": "Reincarnation • Action • Demons",
+    "notes": "",
+    "readUrl": "https://www.google.com/search?q=I+Took+Over+the+Academy+With+a+Single+Sashimi+Knife+manhwa",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395701211_8",
+    "title": "The Great Mage Returns After 4000 Years",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793393481211,
+    "lastSuggestedAt": 1793393481211,
+    "coverUrl": "https://uploads.mangadex.org/covers/ff14c29a-3456-4047-828d-10c9671cac4c/ca338cf5-23d5-4508-b215-a342a1b7b7b6.jpg.512.jpg",
+    "genre": "Reincarnation • Monsters • Action",
+    "notes": "",
+    "readUrl": "https://auratoons.com/manga/o-arquimago-retorna-apos-4000-anos/capitulo/25557",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395702035_9",
+    "title": "Sweet Home",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793393542035,
+    "lastSuggestedAt": 1793393542035,
+    "coverUrl": "https://uploads.mangadex.org/covers/12d230c6-1892-4841-a690-d652d7ff8c19/36f0c1e8-a531-45de-b913-36b316e48c62.jpg.512.jpg",
+    "genre": "Romance • Drama",
+    "notes": "",
+    "readUrl": "https://www.google.com/search?q=Sweet+Home+manhwa+portugues",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395702809_10",
+    "title": "Anta to Osananajimi tte Dake Demo Iya nanoni...",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793393602809,
+    "lastSuggestedAt": 1793393602809,
+    "coverUrl": "https://uploads.mangadex.org/covers/202718c6-525e-4cec-a469-c945548cacc3/04dd5c60-a742-4f42-9de0-80759d0e0ceb.jpg.512.jpg",
+    "genre": "Romance • Comedy • Harem",
+    "notes": "",
+    "readUrl": "https://mangadex.org/title/202718c6-525e-4cec-a469-c945548cacc3/",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395705401_11",
+    "title": "Building an Eternal Club",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793393665401,
+    "lastSuggestedAt": 1793393665401,
+    "coverUrl": "https://media.kitsu.app/manga/poster_images/55197/large.jpg",
+    "genre": "Manhwa • Ação",
+    "notes": "",
+    "readUrl": "https://www.google.com/search?q=manhwa+eternal+club+portugues",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)",
+    "mangadexTitle": "Dare ga Yonda no!? ~Isekai to Game-dzukuri to Recruit Shoukan~"
+  },
+  {
+    "id": "rec_brave_1793395706238_12",
+    "title": "Lookism",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793393726238,
+    "lastSuggestedAt": 1793393726238,
+    "coverUrl": "https://uploads.mangadex.org/covers/596191eb-69ee-4401-983e-cc07e277fa17/6df15145-f15b-43f0-b87b-22fd3694eaca.jpg.512.jpg",
+    "genre": "Action • Long Strip • Comedy",
+    "notes": "",
+    "readUrl": "https://www.webtoons.com/en/drama/lookism/list?title_no=1049&page=1",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395707288_13",
+    "title": "The Way to Protect the Female Lead's Older Brother",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793393787289,
+    "lastSuggestedAt": 1793393787289,
+    "coverUrl": "https://uploads.mangadex.org/covers/efebd0bc-eb88-477c-bcc3-90413395a2a3/6ad2b495-e945-4498-a930-fe59ed46c2c5.jpg.512.jpg",
+    "genre": "Reincarnation • Monsters • Psychological",
+    "notes": "",
+    "readUrl": "https://www.google.com/search?q=The+way+to+protect+the+female+lead+older+brother+manhwa+portugues",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395708106_14",
+    "title": "Advanced Evolution",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793393848106,
+    "lastSuggestedAt": 1793393848106,
+    "coverUrl": "https://media.kitsu.app/manga/poster_images/60830/large.jpg",
+    "genre": "Action • Long Strip • Martial Arts",
+    "notes": "",
+    "readUrl": "https://www.google.com/search?q=Manhwa+Advanced+Evolution+portugues",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)",
+    "mangadexTitle": "Extraordinary Evolution"
+  },
+  {
+    "id": "rec_brave_1793395709004_15",
+    "title": "Marry My Husband",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793393909004,
+    "lastSuggestedAt": 1793393909004,
+    "coverUrl": "https://uploads.mangadex.org/covers/13b194c4-5d6b-421e-b95d-34ceb3f7e20f/2c7f89ad-845a-4b76-8f66-43c256e225c1.jpg.512.jpg",
+    "genre": "Reincarnation • Psychological • Long Strip",
+    "notes": "",
+    "readUrl": "https://www.skoob.com.br/pt/book/12112375?title=marry-my-husband",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395709838_16",
+    "title": "Rooftop Sword Master",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793393969838,
+    "lastSuggestedAt": 1793393969838,
+    "coverUrl": "https://uploads.mangadex.org/covers/38dc5832-4714-4467-9c7e-fc9689fb149c/36c0d115-40ea-4fa8-b69d-909874a26efa.png.512.jpg",
+    "genre": "Thriller • Action • Psychological",
+    "notes": "",
+    "readUrl": "https://manhwaweb.com/leer/comic-el-men-de-la-venzanza_1694253402800-1_01",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395710705_17",
+    "title": "Seoul Station Druid",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793394030705,
+    "lastSuggestedAt": 1793394030705,
+    "coverUrl": "https://uploads.mangadex.org/covers/946ff973-95b5-4f57-8e81-7c4674ea50dc/25af0915-1ee5-4b57-ac6b-300bd885f149.jpg.512.jpg",
+    "genre": "Sci-Fi • Monsters • Action",
+    "notes": "",
+    "readUrl": "https://www.google.com/search?q=Seoul+Station+Druid+manhwa+portugues",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395711561_18",
+    "title": "Fight Class 3",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793394091561,
+    "lastSuggestedAt": 1793394091561,
+    "coverUrl": "https://uploads.mangadex.org/covers/49650a04-d0d7-4526-b460-8203ae223586/a4ff8701-7fbb-4d17-b048-1c1b1b05d024.jpg.512.jpg",
+    "genre": "Thriller • Action • Psychological",
+    "notes": "",
+    "readUrl": "https://taiyo.moe/chapter/86ef60da-4ff9-45e4-a8ee-b1aebc6bda5e/1",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395712511_19",
+    "title": "Global Freeze: I Created an Apocalypse Shelter",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793394152511,
+    "lastSuggestedAt": 1793394152511,
+    "coverUrl": "https://uploads.mangadex.org/covers/da3f22d5-a9c0-47ae-b39c-9db0aca11dd0/5d2dc639-0607-41e1-96b0-2b10aabe9a4a.png.512.jpg",
+    "genre": "Action • Long Strip • Romance",
+    "notes": "",
+    "readUrl": "https://comix.to/title/3yz2-global-freeze-i-created-an-apocalypse-shelter",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395713487_20",
+    "title": "Revenge of the Iron-Blooded Sword Hound",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793394213487,
+    "lastSuggestedAt": 1793394213487,
+    "coverUrl": "https://uploads.mangadex.org/covers/fbf326f7-ccbd-4d54-bbad-852d76e46523/1084eda4-b6f9-46de-96b8-a3898c4819a0.jpg.512.jpg",
+    "genre": "Time Travel • Action • Long Strip",
+    "notes": "",
+    "readUrl": "https://www.nexusmangas.com/capitulo/a-vinganca-do-cao-de-caca-dos-baskerville/1",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395714343_21",
+    "title": "Jinsei Gyakuten: Uwaki Sare Enzai",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793394274343,
+    "lastSuggestedAt": 1793394274343,
+    "coverUrl": "https://uploads.mangadex.org/covers/ed858324-c972-4d85-be4e-3287767eb7da/28be3dfe-98ad-4923-a849-e42df61caf33.jpg.512.jpg",
+    "genre": "Psychological • Romance • Drama",
+    "notes": "",
+    "readUrl": "https://www.nexusmangas.com/obra/jinsei-gyakuten-uwaki-sare-enzai-wo-kiserareta-ore-ga-gakuen-ichi-no-bishoujo-ni-natsukareru",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395715264_22",
+    "title": "I Killed an Academy Player",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793394335264,
+    "lastSuggestedAt": 1793394335264,
+    "coverUrl": "https://uploads.mangadex.org/covers/4dff5c5e-bad0-4dc6-a356-638b188b9eec/bd6955b9-8319-4e5d-a05b-bdb702c9ce9d.jpg.512.jpg",
+    "genre": "Reincarnation • Time Travel • Romance",
+    "notes": "",
+    "readUrl": "https://nexustoons.com/manga/eu-matei-um-jogador-da-academia",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395716915_24",
+    "title": "Hero Killer",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793394456915,
+    "lastSuggestedAt": 1793394456915,
+    "coverUrl": "https://uploads.mangadex.org/covers/1c57856e-eb2d-4bd8-942c-e7aa76db7ccb/284b0672-1289-4d81-b92a-611df442e1fe.jpg.512.jpg",
+    "genre": "Monsters • Action • Romance",
+    "notes": "",
+    "readUrl": "https://readhunters.xyz/read/assassina-de-herois/",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395717923_25",
+    "title": "The Case Where I Followed the Freezing Lady",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793394517923,
+    "lastSuggestedAt": 1793394517923,
+    "coverUrl": "https://uploads.mangadex.org/covers/b6b89f54-81c1-4e7e-ae80-b4dccdd63ada/f0a9dace-83d0-44b0-8f8d-eb7744b665ed.jpg.512.jpg",
+    "genre": "Romance • Comedy • Fantasy",
+    "notes": "",
+    "readUrl": "https://mangalivre.blog/capitulo/the-case-where-i-followed-the-freezing-lady-and-she-doted-on-me-like-crazy-capitulo-1/",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395718780_26",
+    "title": "Top 1 Fighting Tutoring",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793394578780,
+    "lastSuggestedAt": 1793394578780,
+    "coverUrl": "https://uploads.mangadex.org/covers/a0f5d36b-3af9-412a-ae65-8973bad10245/7728b918-25c3-443c-ba36-700d99c8f356.png.512.jpg",
+    "genre": "Action • Long Strip • Martial Arts",
+    "notes": "",
+    "readUrl": "https://taiyo.moe/media/8286852a-d6d8-4412-ac0f-9af224621838",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395720449_27",
+    "title": "Quest Supremacy",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793394640449,
+    "lastSuggestedAt": 1793394640449,
+    "coverUrl": "https://uploads.mangadex.org/covers/bcf927d8-52e3-4d6f-a2da-4eb37abe91c9/102c5e22-05b8-41f2-922f-4a6c4b80678b.png.512.jpg",
+    "genre": "Action • Long Strip • Comedy",
+    "notes": "",
+    "readUrl": "https://www.google.com/search?q=Quest+Supremacy+manhwa+portugues",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395721375_28",
+    "title": "How to Raise Villains Correctly",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793394701375,
+    "lastSuggestedAt": 1793394701375,
+    "coverUrl": "https://uploads.mangadex.org/covers/d02b8aa3-2941-4d1a-aabc-f5fd78cbfdcb/59f8120e-51ee-4a7b-a1ed-d1be50af86d3.jpg.512.jpg",
+    "genre": "Demons • Long Strip • Romance",
+    "notes": "",
+    "readUrl": "https://www.manhwaweb.com/leer/como-criar-villanos-correctamente_1761601438944-1_01",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395722190_29",
+    "title": "The Boxer",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793394762190,
+    "lastSuggestedAt": 1793394762190,
+    "coverUrl": "https://uploads.mangadex.org/covers/40efa78d-d27a-4364-92ac-6d7af69a851b/1e3a2c9c-ee69-43be-a4ed-aa8d8006a2e3.png.512.jpg",
+    "genre": "Thriller • Award Winning • Action",
+    "notes": "",
+    "readUrl": "https://www.google.com/search?q=The+Boxer+manhwa+portugues",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395723011_30",
+    "title": "Astral Pet Store",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793394823011,
+    "lastSuggestedAt": 1793394823011,
+    "coverUrl": "https://uploads.mangadex.org/covers/caa26975-6cbf-4bdd-861a-60ca8db41586/8d1dca88-a9c2-4faf-8097-8d46a76eaa62.jpg.512.jpg",
+    "genre": "Monsters • Action • Demons",
+    "notes": "",
+    "readUrl": "https://www.skoob.com.br/pt/book/122428434?title=astral-pet-store",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395723925_31",
+    "title": "Tyrant of the Tower Defense Game",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793394883925,
+    "lastSuggestedAt": 1793394883925,
+    "coverUrl": "https://uploads.mangadex.org/covers/a846b1d7-2e57-4622-acdf-9c584d07ce7f/3e29572e-ddc1-4145-9146-bf61c8b1bc42.jpg.512.jpg",
+    "genre": "Reincarnation • Monsters • Action",
+    "notes": "",
+    "readUrl": "https://mangadash.net/capitulo/349-tyrant-of-the-tower-defense-game/1",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395724776_32",
+    "title": "Omniscient Reader's Viewpoint",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793394944776,
+    "lastSuggestedAt": 1793394944776,
+    "coverUrl": "https://uploads.mangadex.org/covers/46392cb3-a0f8-42e4-b2ac-b89637df56d9/1c3f3366-e82e-4b12-bae9-25fa6dbaa8b0.jpg.512.jpg",
+    "genre": "Award Winning • Reincarnation • Monsters",
+    "notes": "",
+    "readUrl": "https://www.nexusmangas.com/capitulo/o-ponto-de-vista-do-leitor-onisciente/0",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395725581_33",
+    "title": "Dungeon Odyssey",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793395005581,
+    "lastSuggestedAt": 1793395005581,
+    "coverUrl": "https://uploads.mangadex.org/covers/0153e96a-fb57-4665-a988-754b4f3aa744/355a5054-68d1-4c02-93fe-278b0c0d1cd5.jpg.512.jpg",
+    "genre": "Monsters • Action • Long Strip",
+    "notes": "",
+    "readUrl": "https://nexustoons.com/manga/odisseia-da-masmorra",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395726589_34",
+    "title": "Player Who Returned 10,000 Years Later",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793395066589,
+    "lastSuggestedAt": 1793395066589,
+    "coverUrl": "https://uploads.mangadex.org/covers/b17b675e-fb9f-4903-b4db-7c7deb2d1cac/c568c1b8-4bee-46ed-b2f7-8c57631d5a3f.jpg.512.jpg",
+    "genre": "Monsters • Action • Demons",
+    "notes": "",
+    "readUrl": "https://playerwhoreturned.com/manga/player-who-returned-years-later-chapter-1/",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395727494_35",
+    "title": "Childhood Friend of the Zenith",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793395127494,
+    "lastSuggestedAt": 1793395127494,
+    "coverUrl": "https://uploads.mangadex.org/covers/bea3a963-9adb-4dbd-b0bc-1a4fba7f23e6/f8cd5723-fa23-4176-a547-c8e648cffb4f.jpg.512.jpg",
+    "genre": "Romance • Comedy • School Life",
+    "notes": "",
+    "readUrl": "https://asurascans.com/comics/childhood-friend-of-the-zenith-3ebcc5a9",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395728542_36",
+    "title": "I'm the Brave Puppy That Will Save the Villainess",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793395188542,
+    "lastSuggestedAt": 1793395188542,
+    "coverUrl": "https://uploads.mangadex.org/covers/7a8d8d5e-bc63-451d-9d28-7c0677f23561/4970aa83-8c87-442d-b77d-af5ce44d0203.png.512.jpg",
+    "genre": "Reincarnation • Animals • Long Strip",
+    "notes": "",
+    "readUrl": "https://www.google.com/search?q=im+the+brave+puppy+that+will+save+the+villainess+manhwa+portugues",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395729440_37",
+    "title": "Regressor Instruction Manual",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793395249440,
+    "lastSuggestedAt": 1793395249440,
+    "coverUrl": "https://uploads.mangadex.org/covers/bd1bf883-c7d4-4f4d-857c-29e2470cb693/6430bb7e-0a77-432a-943e-c787173e9092.jpg.512.jpg",
+    "genre": "Genderswap • Monsters • Action",
+    "notes": "",
+    "readUrl": "https://www.skoob.com.br/pt/book/122415213?title=regressor-instruction-manual",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395730287_38",
+    "title": "The Novel's Extra",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793395310287,
+    "lastSuggestedAt": 1793395310287,
+    "coverUrl": "https://uploads.mangadex.org/covers/6f18c4ef-3eb6-40ee-98a4-507343f05855/de9caf95-f1b2-4613-bb1f-ca48101ed066.jpg.512.jpg",
+    "genre": "Reincarnation • Monsters • Action",
+    "notes": "",
+    "readUrl": "https://mangadash.net/capitulo/370-the-novels-extra/1",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395731153_39",
+    "title": "The Yellow-Haired Villain in Soaring Phoenix",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793395371153,
+    "lastSuggestedAt": 1793395371153,
+    "coverUrl": "https://uploads.mangadex.org/covers/9f652434-2d30-49b0-9375-ba07de981c70/234aa315-343a-46c0-a5b7-1e3f8a0160c3.png.512.jpg",
+    "genre": "Reincarnation • Action • Romance",
+    "notes": "",
+    "readUrl": "https://blitztoons.com/ler/o-vilao-de-cabelos-amarelos-no-romance-da-personagem-principal-feminina-quer-felicidade/93",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395731994_40",
+    "title": "The Executioner",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793395431994,
+    "lastSuggestedAt": 1793395431994,
+    "coverUrl": "https://uploads.mangadex.org/covers/3eaabe03-d2bd-43f3-af71-bd1db4ab564a/55b1bc21-07ab-4820-93a7-b0a9aa627899.jpg.512.jpg",
+    "genre": "Thriller • Award Winning • Reincarnation",
+    "notes": "",
+    "readUrl": "https://mangadash.net/manga/252-o-carrasco",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395732853_41",
+    "title": "Shut Up, Evil Dragon, I Don't Want Any More Kids!",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793395492853,
+    "lastSuggestedAt": 1793395492853,
+    "coverUrl": "https://uploads.mangadex.org/covers/d41fe947-2e33-4b26-ac29-abc70fb08edb/90236063-df32-4fe1-b801-f65d7ee2e17d.jpg.512.jpg",
+    "genre": "Action • Long Strip • Romance",
+    "notes": "",
+    "readUrl": "https://ichijoutranslations.com/obras/156-callate-dragon-malvado-no-quiero-tener-mas-hijos",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395733777_42",
+    "title": "The Greatest Estate Developer",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793395553777,
+    "lastSuggestedAt": 1793395553777,
+    "coverUrl": "https://uploads.mangadex.org/covers/d7f56ace-cd30-48b9-8b64-afeca0077fca/c2613a1e-426f-4ee3-a6f7-caf003324dc7.jpg.512.jpg",
+    "genre": "Reincarnation • Monsters • Action",
+    "notes": "",
+    "readUrl": "https://mangalivre.to/manga/the-greatest-estate-developer/capitulo-01/",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  },
+  {
+    "id": "rec_brave_1793395734713_43",
+    "title": "The Return of the Dark Mage to the Military",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793395614713,
+    "lastSuggestedAt": 1793395614713,
+    "coverUrl": "https://media.kitsu.app/manga/75955/poster_image/large-2ec11d8f13801ffa0e8385ee5c5b3ab3.jpeg",
+    "genre": "Manhwa • Ação",
+    "notes": "",
+    "readUrl": "https://nexustoons.com/manga/o-retorno-do-mago-negro-ao-exercito",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)",
+    "mangadexTitle": "Myeolmanggeup Death Knight-ga Hoegwiham"
+  },
+  {
+    "id": "rec_brave_1793395735675_44",
+    "title": "The Second Eunuch Regains His Manhood",
+    "suggestedBy": "Luke (Brave)",
+    "isMember": false,
+    "hasMemberSupport": false,
+    "supporters": [
+      "Luke (Brave)"
+    ],
+    "count": 1,
+    "status": "pending",
+    "createdAt": 1793395675675,
+    "lastSuggestedAt": 1793395675675,
+    "coverUrl": "https://uploads.mangadex.org/covers/6acd22d3-7df9-4a49-a774-2f6dfb9c2a0c/a786f144-3f00-4c33-96bd-3ec1f854117c.jpg.512.jpg",
+    "genre": "Time Travel • Historical • Action",
+    "notes": "",
+    "readUrl": "https://nexustoons.com/manga/o-segundo-eunuco-recupera-sua-masculinidade",
+    "suggestedAvatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Luke%20(Brave)"
+  }
+]

@@ -1,10 +1,10 @@
 'use client';
 
-import React from 'react';
-import Image from 'next/image';
+import React, { useState, useEffect, useRef } from 'react';
 import { Star, Flame, CheckCircle2, Clock, Youtube } from 'lucide-react';
 import { Manhwa } from '@/types/manhwa';
 import { getSafeCoverUrl } from '@/lib/covers';
+import { extractCoverAccentColor, getFallbackColor } from '@/lib/color';
 
 interface ManhwaCardProps {
   manhwa: Manhwa;
@@ -12,22 +12,43 @@ interface ManhwaCardProps {
 }
 
 export default function ManhwaCard({ manhwa, onSelect }: ManhwaCardProps) {
-  const [imgSrc, setImgSrc] = React.useState(getSafeCoverUrl(manhwa.coverUrl));
+  const [imgSrc, setImgSrc] = useState(getSafeCoverUrl(manhwa.coverUrl));
+  const [accentColor, setAccentColor] = useState(() => getFallbackColor(manhwa.title));
+  const [isHovered, setIsHovered] = useState(false);
+  const imgRef = useRef<HTMLImageElement>(null);
 
-  React.useEffect(() => {
+  useEffect(() => {
     setImgSrc(getSafeCoverUrl(manhwa.coverUrl));
   }, [manhwa.coverUrl]);
+
+  const handleImageLoad = () => {
+    if (imgRef.current) {
+      const color = extractCoverAccentColor(imgRef.current, manhwa.title);
+      setAccentColor(color);
+    }
+  };
 
   return (
     <div
       onClick={() => onSelect(manhwa)}
-      className="group relative cursor-pointer flex flex-col rounded-[22px] overflow-hidden ios-glass-card hover:border-purple-500/40"
+      onMouseEnter={() => setIsHovered(true)}
+      onMouseLeave={() => setIsHovered(false)}
+      style={{
+        borderColor: isHovered ? accentColor : 'rgba(255, 255, 255, 0.09)',
+        boxShadow: isHovered
+          ? `0 16px 36px -8px ${accentColor}40, 0 0 20px -2px ${accentColor}25`
+          : undefined,
+      }}
+      className="group relative cursor-pointer flex flex-col rounded-[22px] overflow-hidden ios-glass-card transition-all duration-300"
     >
       {/* Capa com proporção vertical */}
       <div className="relative w-full aspect-[3/4.2] overflow-hidden bg-zinc-900">
         <img
+          ref={imgRef}
           src={imgSrc}
           alt={manhwa.title}
+          crossOrigin="anonymous"
+          onLoad={handleImageLoad}
           className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500 ease-out"
           loading="lazy"
           referrerPolicy="no-referrer"
@@ -35,25 +56,43 @@ export default function ManhwaCard({ manhwa, onSelect }: ManhwaCardProps) {
             if (!imgSrc.includes('/api/cover')) {
               setImgSrc(`/api/cover?url=${encodeURIComponent(manhwa.coverUrl)}`);
             } else {
-              setImgSrc('https://images.unsplash.com/photo-1578632767115-351597cf2477?w=600&auto=format&fit=crop&q=80');
+              setImgSrc(
+                'https://images.unsplash.com/photo-1578632767115-351597cf2477?w=600&auto=format&fit=crop&q=80'
+              );
             }
           }}
         />
 
-        {/* Gradiente estilo Apple na parte inferior da capa */}
-        <div className="absolute inset-0 bg-gradient-to-t from-[#141418] via-transparent to-black/30 opacity-90 group-hover:opacity-75 transition-opacity" />
+        {/* Gradiente estilo Apple na parte inferior da capa com tom da cor destaque */}
+        <div
+          className="absolute inset-0 bg-gradient-to-t from-[#141418] via-transparent to-black/30 opacity-90 group-hover:opacity-75 transition-opacity"
+        />
+
+        {/* Brilho da cor destaque da capa na parte inferior */}
+        <div
+          className="absolute bottom-0 left-0 right-0 h-1/3 opacity-0 group-hover:opacity-30 transition-opacity duration-500 pointer-events-none"
+          style={{
+            background: `linear-gradient(to top, ${accentColor}, transparent)`,
+          }}
+        />
 
         {/* Badges superiores flutuantes */}
         <div className="absolute top-2.5 left-2.5 right-2.5 flex items-center justify-between gap-1 pointer-events-none">
           <div className="flex items-center gap-1">
             {manhwa.lukeRecommended && (
-              <span className="flex items-center gap-1 px-2.5 py-1 rounded-full text-[10px] font-bold tracking-wide bg-purple-600/90 text-white backdrop-blur-md shadow-lg shadow-purple-900/50">
+              <span
+                style={{ backgroundColor: `${accentColor}E6` }}
+                className="flex items-center gap-1 px-2.5 py-1 rounded-full text-[10px] font-bold tracking-wide text-white backdrop-blur-md shadow-lg"
+              >
                 <Flame className="w-3 h-3 text-amber-300" />
                 TOP LUKE
               </span>
             )}
             {manhwa.lukeVideoUrl && (
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-red-600/90 text-white backdrop-blur-md shadow-lg shadow-red-900/50" title="Possui vídeo no canal">
+              <span
+                className="flex items-center justify-center w-6 h-6 rounded-full bg-red-600/90 text-white backdrop-blur-md shadow-lg shadow-red-900/50"
+                title="Possui vídeo no canal"
+              >
                 <Youtube className="w-3.5 h-3.5" />
               </span>
             )}
@@ -94,7 +133,10 @@ export default function ManhwaCard({ manhwa, onSelect }: ManhwaCardProps) {
       {/* Informações da Obra */}
       <div className="p-3.5 flex flex-col flex-1 justify-between gap-2 bg-[#141418]/90">
         <div>
-          <h3 className="font-semibold text-sm sm:text-base text-zinc-100 line-clamp-1 group-hover:text-purple-300 transition-colors">
+          <h3
+            style={{ color: isHovered ? accentColor : undefined }}
+            className="font-semibold text-sm sm:text-base text-zinc-100 line-clamp-1 transition-colors duration-200"
+          >
             {manhwa.title}
           </h3>
           {manhwa.originalTitle && (
@@ -109,13 +151,13 @@ export default function ManhwaCard({ manhwa, onSelect }: ManhwaCardProps) {
           {manhwa.genres.slice(0, 2).map((genre, i) => (
             <span
               key={i}
-              className="text-[10px] px-2 py-0.5 rounded-full bg-white/5 text-zinc-300 border border-white/5"
+              className="text-[10px] px-2 py-0.5 rounded-full bg-white/5 text-zinc-400 border border-white/5"
             >
               {genre}
             </span>
           ))}
           {manhwa.genres.length > 2 && (
-            <span className="text-[10px] px-1.5 py-0.5 rounded-full bg-white/5 text-zinc-400">
+            <span className="text-[10px] px-1.5 py-0.5 rounded-full bg-white/5 text-zinc-500">
               +{manhwa.genres.length - 2}
             </span>
           )}
@@ -124,4 +166,3 @@ export default function ManhwaCard({ manhwa, onSelect }: ManhwaCardProps) {
     </div>
   );
 }
-
